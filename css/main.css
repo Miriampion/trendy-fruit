@@ -11,13 +11,33 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
+  font-family: 'Open Sans', sans-serif;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
 }
 
-body{
+body {
   margin: 0;
   padding: 0;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.watermelon {
+  font-family: 'Rammetto One', cursive;
+  background-color: #e97065;
+}
+
+.persimmon {
+  font-family: 'Comfortaa', cursive;
+  background-color:#fbd25e;
+}
+
+.starfruit {
+  font-family: 'Gravitas One', cursive;
+  background-color: #e86033;
 }
